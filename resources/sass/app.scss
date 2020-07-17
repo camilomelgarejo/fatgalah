@@ -1,0 +1,22 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700,800|Roboto:300,400,400i,500,500i,700");
+
+@media (min-width: 992px){
+    .navbar-expand-lg .navbar-nav .dropdown-menu {
+        position: fixed;
+        top: 130px;
+        left: 6vw;
+        min-width: 88vw;
+    }
+}
+.menu{
+	
+}
